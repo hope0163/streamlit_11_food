@@ -1,7 +1,6 @@
 # streamlit_11_food
 
 teachable machine으로 학습한, 11개 카테고리의 음식 이미지를 예측하는 앱입니다.
----
 
 
 ## 프로젝트 소개
