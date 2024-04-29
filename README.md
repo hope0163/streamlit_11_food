@@ -26,7 +26,11 @@ teachable machine으로 학습한, 11개 카테고리의 음식 이미지를 예
 사용자가 이미지를 업로드하면 11개의 음식 카테고리중 하나로 인식하여 예측합니다.
 
 
-[대시보드캡쳐]('프로젝트소개.png')
+## 실행화면
+<img src="https://github.com/hope0163/streamlit_11_food/assets/117155666/6c82e708-883f-43ec-adb0-bd0d6bafe8f9">
+
+
+[대시보드캡쳐]('https://github.com/hope0163/streamlit_11_food/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%86%8C%EA%B0%9C.png')
 
 
 ## 🔎 데이터 출처
