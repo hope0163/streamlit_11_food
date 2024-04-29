@@ -27,7 +27,7 @@ teachable machine으로 학습한, 11개 카테고리의 음식 이미지를 예
 
 
 ## 실행화면
-<img src="https://github.com/hope0163/streamlit_11_food/assets/117155666/6c82e708-883f-43ec-adb0-bd0d6bafe8f9">
+![title]('https://github.com/hope0163/streamlit_11_food/assets/117155666/6c82e708-883f-43ec-adb0-bd0d6bafe8f9'){: width="100%" height="100%"}
 
 
 [대시보드캡쳐]('https://github.com/hope0163/streamlit_11_food/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%86%8C%EA%B0%9C.png')
